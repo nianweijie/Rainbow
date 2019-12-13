@@ -5,3 +5,5 @@ circle you hands
 this is my rainbow dancing
 trying another pose
 you are welcome
+this fixws #2 issue
+
