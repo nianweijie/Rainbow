@@ -1,4 +1,4 @@
-step left
+hold on before step left
 step right
 jump up and downce
 circle you hands
